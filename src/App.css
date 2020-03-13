@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.editor-images figure {
+  margin: 0;
+}
+.editor-images .rdw-image-left {
+  display: unset;
+  float: left;
+}
+.editor-images .rdw-image-right {
+  display: unset;
+  justify-content: unset;
+  float: right;
+}
